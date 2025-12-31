@@ -9,7 +9,7 @@ export default function Notfound() {
         <h1>
             Wellcome Notfound
         </h1>
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus quidem perspiciatis eligendi totam quae quos cum molestiae placeat architecto officiis odio dicta rerum expedita porro alias eaque aperiam, est voluptas.</p>
+        <h3>please go to login page or register page to continue</h3>
       </div>
     </>
   )
